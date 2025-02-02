@@ -12,7 +12,7 @@ This is a FastAPI application for managing a bookstore. It includes user registr
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/amaan-igs/FastAPI.git
     cd FastAPI-Bookstore
     ```
 
